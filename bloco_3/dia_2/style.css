@@ -1,0 +1,35 @@
+h1 {
+    width: 65px;
+    color: orange;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-decoration: grey;
+}
+
+ul {
+    background-color: orchid;
+    text-align: center;
+}
+
+.list {
+    background-color: green;
+}
+
+p {
+    font-weight: 600px;
+    font-size: 3em;
+    font-style: italic;
+    line-height: normal;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#brown {
+    background-color:saddlebrown;
+}
