@@ -64,3 +64,17 @@
     width: 5px;
 
 }
+
+p, h1 {
+  text-align: center;
+}
+
+ol li:hover {
+  background-color: blueviolet;
+}
+.bestSites {
+  list-style: none;
+}
+.listLike {
+  list-style: none;
+}
